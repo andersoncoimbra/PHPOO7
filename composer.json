@@ -1,0 +1,11 @@
+{
+    "name": "andersoncoimbra/setupphp74",
+    "description": "Configurações iniciais para php7.4 com docker",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anderson Coimbra"
+        }
+    ],
+    "require": {}
+}
